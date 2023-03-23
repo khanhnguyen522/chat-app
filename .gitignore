@@ -1,2 +1,3 @@
-/Users/khanhnguyen/Desktop/KChat-mern/.env
 /node_modules
+node_modules/
+.env
